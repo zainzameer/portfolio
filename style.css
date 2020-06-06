@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.bg-pic{
+    background-image: url("../portfolio/images/a.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+body{
+    background-color: #f7f8fa;
+}
+@media screen and (max-width:600px) {
+ img.pic{
+     width:200px;
+ }
+}
